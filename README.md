@@ -53,5 +53,4 @@ To run the application locally, follow these steps:
 - Edit tasks by clicking the "Edit" button on each task card, making changes in the modal, and clicking "Save Changes."
 - Delete tasks by clicking the "Delete" button on each task card.
 
-## Deployment
-This application is deployed using Vercel Pages & Vite as a build tool.
+
