@@ -53,4 +53,9 @@ To run the application locally, follow these steps:
 - Edit tasks by clicking the "Edit" button on each task card, making changes in the modal, and clicking "Save Changes."
 - Delete tasks by clicking the "Delete" button on each task card.
 
+## Screenshots
+
+![Screenshot (214)](https://github.com/user-attachments/assets/dabbacdf-e155-4078-b6e5-28fdf50aa8a6)
+
+
 
