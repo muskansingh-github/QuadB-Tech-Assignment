@@ -56,6 +56,15 @@ To run the application locally, follow these steps:
 ## Screenshots
 
 ![Screenshot (214)](https://github.com/user-attachments/assets/dabbacdf-e155-4078-b6e5-28fdf50aa8a6)
+![Screenshot (215)](https://github.com/user-attachments/assets/6e30d195-1952-40a1-92f1-a1882439d3ff)
+![Screenshot (216)](https://github.com/user-attachments/assets/9ebf7734-e36b-4e53-baec-cca2eb9d69e2)
+![Screenshot (217)](https://github.com/user-attachments/assets/da499ebd-c5cf-4810-87e3-c92c4bfc7341)
+![Screenshot (218)](https://github.com/user-attachments/assets/71a477df-fc7a-4a2c-b62d-5982157cf224)
+![Screenshot (219)](https://github.com/user-attachments/assets/af38bb40-33a2-41e8-882d-103b020f073e)
+
+
+
+
 
 
 
