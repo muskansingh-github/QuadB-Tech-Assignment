@@ -63,6 +63,13 @@ To run the application locally, follow these steps:
 ![Screenshot (219)](https://github.com/user-attachments/assets/af38bb40-33a2-41e8-882d-103b020f073e)
 
 
+## Responsiveness 
+
+![Screenshot (220)](https://github.com/user-attachments/assets/95591b9d-1830-494a-af5f-82581b272b32)
+![Screenshot (221)](https://github.com/user-attachments/assets/213c7639-b0f4-4773-989b-35ea9ef9f51c)
+![Screenshot (222)](https://github.com/user-attachments/assets/44f2544b-7b99-40b2-8158-90e70b70bc8f)
+
+
 
 
 
